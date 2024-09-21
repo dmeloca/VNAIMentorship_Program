@@ -1,0 +1,3 @@
+[submodule "pytorch/Tensor-Puzzles"]
+	path = pytorch/Tensor-Puzzles
+	url = https://github.com/srush/Tensor-Puzzles.git
